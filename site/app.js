@@ -7,7 +7,7 @@ const day = value => new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Seoul',yea
 function safeURL(value) { try {const u = new URL(value);return ['https:','http:'].includes(u.protocol) ? u.href : '#';} catch {return '#';} }
 function show(view) {
   $('feed-view').hidden = view !== 'feed'; $('settings-view').hidden = view !== 'settings';
-  $('view-name').textContent = view === 'feed' ? '수요 레이더' : '검색 설정';
+  $('view-name').textContent = view === 'feed' ? 'K-Request' : '검색 설정';
   document.querySelectorAll('.nav').forEach(n => n.classList.toggle('active', n.dataset.view === view));
 }
 document.addEventListener('click', event => {const b=event.target.closest('[data-view]');if(b) show(b.dataset.view);});
