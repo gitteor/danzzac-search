@@ -25,7 +25,8 @@ def canonical(url):
     if p.scheme not in ('https', 'http') or not p.hostname:
         raise ValueError('Invalid result URL')
     params = [(k, v) for k, v in parse_qsl(p.query) if not k.startswith('utm_') and k not in ('ref', 'source')]
-    return urlunsplit((p.scheme, p.netloc.lower(), p.path.rstrip('/'), urlencode(params), ''))
+    scheme = 'https' if p.hostname and p.hostname.endswith('heykorean.com') else p.scheme
+    return urlunsplit((scheme, p.netloc.lower(), p.path.rstrip('/'), urlencode(params), ''))
 
 def belongs(url, domain):
     p, d = urlsplit(url), urlsplit('https://' + domain)
