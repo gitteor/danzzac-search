@@ -1,1 +1,10 @@
-{"posts":[],"last_attempt":null,"last_success":null,"status":"not_configured","errors":[],"queries":0}
+{
+  "posts": [],
+  "last_attempt": "2026-09-21T08:03:00.226018+00:00",
+  "last_success": null,
+  "status": "not_configured",
+  "errors": [
+    "검색 API 키와 결과 저장 권한 설정이 필요합니다."
+  ],
+  "queries": 0
+}
