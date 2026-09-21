@@ -1,0 +1,18 @@
+{
+  "keywords": ["Korean proxy shipping", "Korea only shipping", "Korean address forwarding", "buy Korean goods abroad", "한국 물건 해외배송", "한국 구매대행 추천"],
+  "exclude": ["hiring", "coupon code", "sponsored"],
+  "sources": [
+    {"name":"Reddit · K-pop", "domain":"reddit.com/r/kpophelp", "enabled":true},
+    {"name":"Reddit · 컬렉션", "domain":"reddit.com/r/kpopcollections", "enabled":true},
+    {"name":"Reddit · K-beauty", "domain":"reddit.com/r/AsianBeauty", "enabled":true},
+    {"name":"Quora", "domain":"quora.com", "enabled":true},
+    {"name":"X", "domain":"x.com", "enabled":true},
+    {"name":"HeyKorean", "domain":"heykorean.com", "enabled":true},
+    {"name":"MissyUSA", "domain":"missyusa.com", "enabled":true},
+    {"name":"미국 유학생 · 고우해커스", "domain":"gohackers.com", "enabled":true}
+  ],
+  "freshness": "pm",
+  "min_score": 35,
+  "retention_days": 90,
+  "max_queries": 48
+}

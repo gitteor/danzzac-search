@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DANZZAC — 수요 레이더</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%232f55e7'/%3E%3Ccircle cx='20' cy='20' r='12' stroke='white' fill='none' stroke-width='2'/%3E%3Cpath d='M20 20L29 11' stroke='white' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css"><script defer src="app.js"></script>
+</head>
+<body>
+  <aside class="sidebar"><a class="brand" href="./"><span class="logo">d.</span> DANZZAC</a><div class="workspace">GROWTH WORKSPACE</div><nav><button class="nav active" data-view="feed" aria-label="수요 레이더">◉ <span>수요 레이더</span></button><button class="nav" data-view="settings" aria-label="검색 설정">⚙ <span>검색 설정</span></button></nav><div class="sidebar-bottom"><span class="orbit">◎</span><strong>작은 신호, 새로운 고객.</strong><p>한국 상품을 기다리는<br>사람들을 발견하세요.</p><small>하루 2회 · 09:17 / 21:17 KST</small></div></aside>
+  <main><header><div class="breadcrumb">워크스페이스 <span>/</span> <b id="view-name">수요 레이더</b></div><button id="refresh" class="button secondary">↻ 결과 새로고침</button></header>
+  <section id="feed-view"><div class="heading"><div><div class="eyebrow">DEMAND INTELLIGENCE</div><h1>수요 레이더<span class="live-dot"></span></h1><p>한국 상품을 원하는 목소리, 한곳에서 확인하세요.</p></div><button class="button" data-view="settings">검색 설정 <span>↗</span></button></div>
+    <div id="status" class="notice" role="status">수집 상태를 확인하고 있습니다.</div>
+    <div class="stats"><article><span>수집된 게시글</span><strong id="total">0</strong><small>현재 보관 중인 검색 결과</small></article><article><span>오늘 발견</span><strong id="today">0</strong><small>한국 시간 기준</small></article><article><span>높은 구매 의도</span><strong id="high">0</strong><small>관련도 75점 이상</small></article><article><span>마지막 수집 성공</span><strong id="last" class="date-stat">아직 없음</strong><small>검색 색인에 따라 발견이 늦어질 수 있어요</small></article></div>
+    <div class="feed-head"><h2>발견한 게시글 <span id="count">0</span></h2><label class="search"><span>⌕</span><input id="search" type="search" placeholder="제목, 내용, 검색어로 찾기" aria-label="게시글 검색"></label></div>
+    <div class="filters"><label>채널 <select id="source"><option value="">전체 채널</option></select></label><label>관련도 <select id="score"><option value="0">전체</option><option value="75">높음 · 75점 이상</option><option value="50">50점 이상</option></select></label><label>정렬 <select id="sort"><option value="new">최근 발견순</option><option value="score">관련도 높은순</option></select></label><span class="count-label">제목·검색 요약 기준으로 분류합니다</span></div>
+    <div id="posts" aria-live="polite"></div>
+    <footer>공개 검색 결과의 제목과 요약만 표시합니다. 원문에서 실제 요청과 커뮤니티 규칙을 확인하세요.</footer>
+  </section>
+  <section id="settings-view" hidden><div class="heading"><div><div class="eyebrow">MONITORING PREFERENCES</div><h1>검색 설정</h1><p>발견하고 싶은 수요와 살펴볼 커뮤니티를 설정하세요.</p></div></div>
+    <form id="settings-form"><div class="settings-grid"><article class="panel"><h2>어떤 수요를 찾을까요?</h2><label for="keywords">검색어 <small>한 줄에 하나 · 최대 30개</small></label><textarea id="keywords" rows="8" required></textarea><label for="exclude">제외할 표현 <small>한 줄에 하나</small></label><textarea id="exclude" rows="3"></textarea><div class="row"><label>검색 기간<select id="freshness"><option value="pd">최근 1일</option><option value="pw">최근 1주</option><option value="pm">최근 1개월</option><option value="py">최근 1년</option></select></label><label>최소 관련도<input id="min-score" type="number" min="0" max="100" required></label></div></article><article class="panel"><h2>어디에서 찾을까요?</h2><p>검색엔진에 공개 색인된 결과만 수집합니다. X·Quora와 로그인형 커뮤니티는 검색 누락이 많을 수 있습니다.</p><div id="sources"></div><div class="divider"></div><h3>자동 업데이트</h3><p>매일 <b>09:17 · 21:17</b> (한국 시간)<br>예약 실행은 GitHub 상황에 따라 지연될 수 있습니다.</p><p id="budget" class="muted"></p></article></div>
+    <article class="panel connection"><h2>GitHub에 설정 적용</h2><p>저장소에 저장해야 다음 자동 수집에 반영됩니다. 토큰은 저장하지 않으며, 새로고침하면 지워집니다.</p><div class="row"><label>저장소<input id="repo" placeholder="owner/repository" autocomplete="off"></label><label>GitHub 토큰<input id="token" type="password" placeholder="해당 저장소의 Contents / Actions 쓰기 권한" autocomplete="off"></label></div><div class="actions"><button type="submit" class="button">설정 저장 및 수집 시작</button><button type="button" id="download" class="button secondary">설정 파일 내려받기</button></div><p class="muted">API 키는 GitHub 저장소 Secrets에 등록하세요. 공개 웹페이지에 입력하지 않습니다.</p><p id="save-status" role="status"></p></article></form>
+  </section></main>
+</body></html>
