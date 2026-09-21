@@ -34,9 +34,10 @@ async function load() {
     dataset = await pr.json(); const fetchedConfig = await cr.json();
     if (!Array.isArray(dataset.posts)) throw new Error('결과 파일 형식이 올바르지 않습니다.');
     if (!config) {config=fetchedConfig;renderSettings();}
-    const messages={not_configured:'연결 대기 · 검색 API 키와 저장 권한을 설정하면 자동 수집을 시작합니다.',ok:'수집 완료 · 하루 두 번 새로운 수요를 확인합니다.',partial:'일부 검색에 실패했습니다. 성공한 결과와 기존 결과를 함께 표시합니다.',error:'수집에 실패했습니다. 기존 결과를 유지하고 있습니다. GitHub Actions 실행 기록을 확인하세요.'};
-    $('status').textContent = (messages[dataset.status] || '수집 상태를 확인하세요.') + (dataset.last_attempt ? ` 최근 시도 ${date(dataset.last_attempt)} KST · 검색 ${dataset.queries}회` : '');
-    if (dataset.last_success && Date.now()-Date.parse(dataset.last_success)>26*3600000) $('status').textContent += ' · 26시간 이상 새 수집이 없습니다. 예약 실행을 확인하세요.';
+    const messages={not_configured:'연결 대기 · 검색 API 키와 저장 권한을 설정하면 자동 수집을 시작합니다.',ok:'수집 완료 · 하루 한 번 새로운 수요를 확인합니다.',partial:'일부 검색에 실패했습니다. 성공한 결과와 기존 결과를 함께 표시합니다.',error:'수집에 실패했습니다. 기존 결과를 유지하고 있습니다. GitHub Actions 실행 기록을 확인하세요.'};
+    messages.budget_limited='호출 한도 도달 · 기존 결과를 유지합니다. 다음 수집일에 남은 검색 조합부터 이어갑니다.';
+    $('status').textContent = (messages[dataset.status] || '수집 상태를 확인하세요.') + (dataset.last_attempt ? ` 최근 시도 ${date(dataset.last_attempt)} KST · 검색 ${dataset.queries}회` : '') + (dataset.usage?.month ? ` · ${dataset.usage.month} API 호출 ${dataset.usage.monthly}/1,000회` : '');
+    if (dataset.last_success && Date.now()-Date.parse(dataset.last_success)>30*3600000) $('status').textContent += ' · 30시간 이상 새 수집이 없습니다. 예약 실행을 확인하세요.';
     $('total').textContent = dataset.posts.length;
     $('today').textContent = dataset.posts.filter(p=>day(p.first_seen)===day(new Date())).length;
     $('high').textContent = dataset.posts.filter(p=>p.score>=75).length;

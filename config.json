@@ -14,5 +14,5 @@
   "freshness": "pm",
   "min_score": 35,
   "retention_days": 90,
-  "max_queries": 48
+  "max_queries": 32
 }

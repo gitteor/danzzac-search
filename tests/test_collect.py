@@ -9,6 +9,20 @@ from scripts import collect
 from pathlib import Path
 
 class CollectorTests(unittest.TestCase):
+    def test_budget_counts_attempts_and_resets(self):
+        usage = {}
+        for _ in range(32):
+            collect.consume_budget(usage, '2026-09-21T00:00:00+00:00')
+        with self.assertRaises(collect.BudgetExhausted):
+            collect.consume_budget(usage, '2026-09-21T12:00:00+00:00')
+        collect.consume_budget(usage, '2026-09-22T00:00:00+00:00')
+        self.assertEqual(usage['monthly'], 33)
+        usage['monthly'] = 1000
+        with self.assertRaises(collect.BudgetExhausted):
+            collect.consume_budget(usage, '2026-09-23T00:00:00+00:00')
+        collect.consume_budget(usage, '2026-10-01T00:00:00+00:00')
+        self.assertEqual(usage['monthly'], 1)
+
     def test_tracking_removed_but_post_identity_retained(self):
         self.assertEqual(canonical('https://example.com/board?id=9&utm_source=x#reply'), 'https://example.com/board?id=9')
 

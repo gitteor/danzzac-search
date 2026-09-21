@@ -1,7 +1,7 @@
 name: Collect and publish
 on:
   schedule:
-    - cron: '17 0,12 * * *'
+    - cron: '17 0 * * *'
   workflow_dispatch:
   push:
     branches: [main]

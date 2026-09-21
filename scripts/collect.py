@@ -70,11 +70,25 @@ def validate(c):
         if type(c[key]) is not int or not lo <= c[key] <= hi:
             raise ValueError('Invalid ' + key)
 
-def search(query, key, freshness):
+class BudgetExhausted(Exception):
+    pass
+
+def consume_budget(usage, stamp):
+    if usage.get('month') != stamp[:7]:
+        usage.update(month=stamp[:7], monthly=0)
+    if usage.get('day') != stamp[:10]:
+        usage.update(day=stamp[:10], daily=0)
+    if usage['monthly'] >= 1000 or usage['daily'] >= 32:
+        raise BudgetExhausted()
+    usage['monthly'] += 1
+    usage['daily'] += 1
+
+def search(query, key, freshness, before_request=lambda: None):
     url = 'https://api.search.brave.com/res/v1/web/search?' + urlencode({'q': query, 'count': 20, 'freshness': freshness})
     for attempt in range(3):
         try:
             req = Request(url, headers={'Accept': 'application/json', 'X-Subscription-Token': key})
+            before_request()
             with urlopen(req, timeout=30) as res:
                 return json.load(res).get('web', {}).get('results', [])
         except HTTPError as e:
@@ -88,6 +102,10 @@ def main():
     previous = json.loads(OUT.read_text(encoding='utf-8')) if OUT.exists() else {'posts': []}
     stamp = now()
     result = {**previous, 'last_attempt': stamp, 'errors': [], 'queries': 0}
+    usage = result.setdefault('usage', {})
+    limited = False
+    def before_request():
+        consume_budget(usage, now())
     key = os.getenv('BRAVE_SEARCH_API_KEY')
     if not key or os.getenv('SEARCH_STORAGE_ALLOWED') != 'true':
         result.update(status='not_configured', errors=['검색 API 키와 결과 저장 권한 설정이 필요합니다.'])
@@ -101,7 +119,7 @@ def main():
         for source, keyword in tasks:
             result['queries'] += 1
             try:
-                rows = search(f"site:{source['domain']} {keyword}", key, c['freshness'])
+                rows = search(f"site:{source['domain']} {keyword}", key, c['freshness'], before_request)
                 successes += 1
                 for row in rows:
                     url = canonical(row['url'])
@@ -118,13 +136,19 @@ def main():
                         first_seen=old.get('first_seen', stamp), last_seen=stamp,
                         source_date=row.get('page_age') or None,
                         content_updated=stamp if old.get('title') != title or old.get('excerpt') != excerpt[:700] else old.get('content_updated', stamp))
+            except BudgetExhausted:
+                result['queries'] -= 1
+                limited = True
+                break
             except Exception as e:
                 result['errors'].append({'source': source['name'], 'keyword': keyword, 'error': type(e).__name__})
             time.sleep(1.1)
         cutoff = (datetime.now(timezone.utc) - timedelta(days=c['retention_days'])).isoformat()
         result['posts'] = sorted([p for p in posts.values() if p['last_seen'] >= cutoff], key=lambda p: p['first_seen'], reverse=True)
-        result['next_query'] = start + len(tasks)
+        result['next_query'] = start + result['queries']
         result['status'] = 'ok' if successes and not result['errors'] else 'partial' if successes else 'error'
+        if limited:
+            result['status'] = 'budget_limited'
         if successes:
             result['last_success'] = stamp
     OUT.parent.mkdir(parents=True, exist_ok=True)
