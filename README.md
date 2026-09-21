@@ -1,6 +1,6 @@
-# DANZZAC · 수요 레이더
+# 한국 상품 해외배송 수요 찾기
 
-한국 상품 구매·배송대행 수요를 찾는 한국어 대시보드입니다. GitHub Pages + GitHub Actions + Brave Search API로 구성하며 Python 표준 라이브러리만 사용합니다.
+한국 상품 수요를 찾는 대시보드입니다. GitHub Pages + GitHub Actions + Brave Search API로 구성하였습니다.
 
 ## 시작하기
 
