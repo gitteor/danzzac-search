@@ -25,7 +25,6 @@ jobs:
       - name: Collect indexed posts
         env:
           BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
-          SEARCH_STORAGE_ALLOWED: ${{ vars.SEARCH_STORAGE_ALLOWED }}
         run: python scripts/collect.py
       - name: Persist results
         run: |

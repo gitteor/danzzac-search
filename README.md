@@ -7,7 +7,7 @@
 1. GitHub 저장소의 **main** 브랜치에 이 폴더의 파일을 업로드합니다. `.github/workflows/monitor.yml`도 포함해야 합니다.
 2. 저장소 **Settings → Pages → Source → GitHub Actions**를 선택합니다.
 3. **Settings → Secrets and variables → Actions → Secrets**에 `BRAVE_SEARCH_API_KEY`를 등록합니다.
-4. 검색 결과 저장을 명시적으로 허용하는 Brave API 계약/플랜을 사용하고, 같은 화면 **Variables**에 `SEARCH_STORAGE_ALLOWED`를 `true`로 등록합니다. 일반 검색 플랜은 결과 저장 권한이 없을 수 있습니다. https://brave.com/search/api/
+4. 검색 API 키를 등록하면 수집이 실행됩니다. 검색 결과의 보관·공개 이용 조건은 사용 중인 API 계약을 참고하세요. 별도 확인 변수를 요구하지 않습니다.
 5. **Settings → Actions → General → Workflow permissions**에서 읽기/쓰기를 허용합니다. main 브랜치 보호가 봇 커밋을 차단한다면 별도 데이터 브랜치 운영 등 조정이 필요합니다.
 6. **Actions → Collect and publish → Run workflow**를 실행합니다. 끝나면 Pages 주소에서 실제 결과를 확인합니다.
 
@@ -61,3 +61,5 @@ http://localhost:8000 에서 확인합니다. 파일을 직접 여는 file:// �
 - 저장 권한: https://brave.com/search/api/
 - GitHub 예약 실행: https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows
 - Reddit 접근 정책: https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy
+
+최근 기간 검색에 결과가 없으면 기간 제한 없이 재검색하며 화면에 ‘기간 확장 검색 · 과거 글 포함’을 표시합니다. 재검색도 API 호출 한도에 포함됩니다.

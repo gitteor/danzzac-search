@@ -84,7 +84,10 @@ def consume_budget(usage, stamp):
     usage['daily'] += 1
 
 def search(query, key, freshness, before_request=lambda: None):
-    url = 'https://api.search.brave.com/res/v1/web/search?' + urlencode({'q': query, 'count': 20, 'freshness': freshness})
+    params = {'q': query, 'count': 20}
+    if freshness:
+        params['freshness'] = freshness
+    url = 'https://api.search.brave.com/res/v1/web/search?' + urlencode(params)
     for attempt in range(3):
         try:
             req = Request(url, headers={'Accept': 'application/json', 'X-Subscription-Token': key})
@@ -107,8 +110,8 @@ def main():
     def before_request():
         consume_budget(usage, now())
     key = os.getenv('BRAVE_SEARCH_API_KEY')
-    if not key or os.getenv('SEARCH_STORAGE_ALLOWED') != 'true':
-        result.update(status='not_configured', errors=['검색 API 키와 결과 저장 권한 설정이 필요합니다.'])
+    if not key:
+        result.update(status='not_configured', errors=['검색 API 키 설정이 필요합니다.'])
     else:
         posts = {p['id']: p for p in previous['posts']}
         successes = 0
@@ -120,6 +123,10 @@ def main():
             result['queries'] += 1
             try:
                 rows = search(f"site:{source['domain']} {keyword}", key, c['freshness'], before_request)
+                expanded = False
+                if not rows:
+                    rows = search(f"site:{source['domain']} {keyword}", key, None, before_request)
+                    expanded = True
                 successes += 1
                 for row in rows:
                     url = canonical(row['url'])
@@ -134,6 +141,7 @@ def main():
                     posts[uid] = dict(id=uid, url=url, title=title, excerpt=excerpt[:700], source=source['name'], score=rank,
                         reasons=reasons, keywords=sorted(set(old.get('keywords', []) + [keyword])),
                         first_seen=old.get('first_seen', stamp), last_seen=stamp,
+                        expanded_search=expanded,
                         source_date=row.get('page_age') or None,
                         content_updated=stamp if old.get('title') != title or old.get('excerpt') != excerpt[:700] else old.get('content_updated', stamp))
             except BudgetExhausted:
