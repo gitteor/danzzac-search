@@ -1,11 +1,2533 @@
 {
-  "posts": [],
-  "last_attempt": "2026-09-21T08:41:16.399703+00:00",
-  "last_success": null,
-  "status": "not_configured",
-  "errors": [
-    "검색 API 키와 결과 저장 권한 설정이 필요합니다."
+  "posts": [
+    {
+      "id": "ca45b96ad5410369b6b3",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1qbkbih/any_good_korean_proxy_services",
+      "title": "r/kpophelp on Reddit: Any good Korean proxy services?",
+      "excerpt": "Does anyone have a less expensive but reliable alternative?? I wasn't sure whether to post here or kpopcollections but 🥲 any insight would be appreciated regardless. ... all proxies will have the same shipping more or less.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-01-13T06:42:19",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "09566f151ae19271e546",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1i1lvu3/help_with_shipping_from_korea",
+      "title": "r/kpophelp on Reddit: Help with shipping from Korea",
+      "excerpt": "That's why International shipping is always high when you order direct from the retailer as they are not tailoring the shipment based on the actual weight. What I've done for both Ktown and Risingstar (as I've ordered from both) is I have a Korean Address (K-Addy/Kaddy). I have the albums sent from the retailer to my Kaddy, they then send the albums to me. Some Kaddys have an \"Inclusions only\" service so you can ask for only the inclusions (just the PhotoCards/POBs, stickers etc) to be shipped.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-01-15T01:13:07",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f21696ce28200ad908cd",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1er2cq4/does_anyone_have_a_good_korean_proxy",
+      "title": "r/kpophelp on Reddit: Does anyone have a good Korean proxy ?",
+      "excerpt": "The only benefit for using them is that they do use other logistics companies like DHL and FedEx which can be slightly faster and allows you to forward the parcel to a pickup location. Cost wise, they're a bit higher too because they charge for consolidation, photos for all orders. Stay away from Harumio, they were the worst one I've tried and they made so many mistakes on placing orders. You basically have to manage - they are very slow, bad at communication, disorganized and don't have a good platform to track your orders. ... Do you perhaps know any Korean proxy which are offering tax free shipping lines?",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-08-13T08:10:18",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "70462022e23ec5f0d354",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1rkfvx5/best_korean_forwarding_service_to_usa",
+      "title": "best korean forwarding service to USA? : r/kpophelp",
+      "excerpt": "A place to ask your K-Pop questions. You can get help with Identifications, Recommendations, Explanations, or Discussions about K-Pop music, artists, genres, content, or industry/cultural issues.",
+      "source": "Reddit · K-pop",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "0b669810fca715faf480",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1gumqeo/whats_a_good_korean_proxy_to_use",
+      "title": "r/kpophelp on Reddit: What's a good korean proxy to use?",
+      "excerpt": "I use delivered korea. if you order from their other site dkshop, than you dont need to do anything extra. no submitting pics or tracking numbers and it goes right to your korean address. they are having a black friday sale starting the 22. I plan on buying a ton. they are quick to ship too.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-11-19T02:30:01",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "6760952ec90463872cdc",
+      "url": "https://www.reddit.com/r/kpophelp/comments/16gvz85/i_want_a_korean_address_or_a_warehouse_to_ship_my",
+      "title": "r/kpophelp on Reddit: I want a korean address or a warehouse to ship my personal orders help:(",
+      "excerpt": "You don't need warehouse for makestar, you can ship it directly to you and participate in fancall event without problems. Overall, I think warehouse/k address is worth it only if you order a lot or from sites which don't ship outside of Korea. You have free storage for items for a month and then they will add additional fee.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-09-12T16:31:37",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b89092655e258af80c6d",
+      "url": "https://www.reddit.com/r/kpophelp/comments/yzv05w/how_to_get_korean_addressproxy_for_reasonable",
+      "title": "r/kpophelp on Reddit: How to get Korean address/proxy for reasonable prices in 2022",
+      "excerpt": "Unless you have a friend in Korea who you can go through. At this point I’ve just accepted the premium cost to be able to get items that don’t ship internationally. An idea is to not forward everything right away, but instead save up until you have multiple items that combine shipping.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-11-20T04:25:17",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f1904d7e2063d93ca127",
+      "url": "https://www.reddit.com/r/kpophelp/comments/ruavkq/looking_for_a_reliable_shopping_proxy_service",
+      "title": "r/kpophelp on Reddit: Looking for a reliable shopping proxy service!",
+      "excerpt": "For Korean proxies, I have used Paysable a lot for goods I can’t ship directly. But their fees are quite steep, and shipping as well. My last forwarded package (12 merged packages, 3.7kg total) cost 40k won in handling fees and 75k won in shipping from them.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-01-02T14:38:31",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e5f10e63619cb3436935",
+      "url": "https://www.reddit.com/r/kpophelp/comments/193x1t6/is_delivered_korea_a_good_and_reliable_site_to",
+      "title": "r/kpophelp on Reddit: Is DELIVERED KOREA a good and reliable site to get official merchs delivered to you without paying a lot just for the shipping??",
+      "excerpt": "You buy (I used this for weverse global): Free use of the Korean address and free storage for 30 days (I think they just raised it to 45 days) is good. The only cost I paid to Delivered Korea was shipping. Weverse global shipping prices to the US are just ridiculous now and I was shopping for a couple of items not available on the US store.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-01-11T08:40:59",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "31db4a37431e77a9871a",
+      "url": "https://www.reddit.com/r/kpophelp/comments/xdt11b/question_about_shipping_and_koreanbuddy",
+      "title": "r/kpophelp on Reddit: Question about shipping and Koreanbuddy",
+      "excerpt": "There's a product I plan to buy on a Korean website that only ships domestically (I am in the US). I hear that Koreanbuddy is a good forwarding service.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-09-14T06:16:38",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "04e79aa71dc8f40e68c0",
+      "url": "https://www.reddit.com/r/kpophelp/comments/ssyrto/korea_to_usa_shipping_helprecommendations",
+      "title": "r/kpophelp on Reddit: Korea to USA Shipping [HELP][Recommendations]",
+      "excerpt": "I'm not really sure how to word ... and buy Korean exclusive goods from stores that don't ship internationally to then ship them to the international buyer. Essentially like buyee but not buyee. I'm trying to buy Ha Hyunsang's first mini album \"My Poor Lonely Heart\" but it is only available ...",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-02-15T09:05:10",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "582aec3ff3c2482ff607",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1axyux2/reliable_shipping_forward_service_buying_local",
+      "title": "r/kpophelp on Reddit: Reliable shipping forward service - Buying local Korean products and shipping internationally",
+      "excerpt": "I've found many \"forward shipping services\" on Google and Instagram, such as \"delivered\", \"shopnship\", \"pearlpopph\" \"oppastoreph\", \"ontact_korea\", \"koboom_logistics\", \"koreabuyandship\", ... and many more. I've only looked at some of them, and h**ly m**ly are they expensive. They are asking $150 (200.000 KRW) to have a 5kg package shipped to their address, and then forward ship them to a European country.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean address forwarding",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-02-23T12:04:46",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b64e3641e76173dacdfc",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1d9geik/help_with_buying_from_korean_sites_that_sell",
+      "title": "r/kpophelp on Reddit: Help with buying from Korean sites that sell overseas!",
+      "excerpt": "You could use a Korean proxy buying service who will be able to purchase the items on behalf of you then once they've reached their warehouse they'll ship them out to you. The one I've used before is koreanbuddies.com but I'm sure there's others that are great too!",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-06-06T11:57:14",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "af2b2035344097f71fda",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1dczw6e/ordering_with_a_proxy",
+      "title": "r/kpophelp on Reddit: Ordering With a Proxy",
+      "excerpt": "Unfortunately you need a Korean address for most proxy’s and most orders form SK sellers in general so they might be asking you to sign up for a Korean address proxy who can ship your items to your country",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-06-11T00:00:00",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "641c55ac33b3ad0bca46",
+      "url": "https://www.reddit.com/r/kpophelp/comments/phhzgl/korean_proxiesaddresses",
+      "title": "r/kpophelp on Reddit: Korean Proxies/addresses",
+      "excerpt": "I use Koreabuyandship for Korean proxy and they check my country's free tax limit value and help me pay the least on tax and customs",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-09-04T01:13:11",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "8475ac3d86bb9218ea3f",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1qp1zn9/is_delivered_korea_shipping_supposed_to_be_this",
+      "title": "r/kpophelp on Reddit: is delivered korea shipping supposed to be this expensive?",
+      "excerpt": "first time using their service, except the shipping is sooo much more expensive than i wouldve expected. the cheapest option is $180. ive gotten bigger proxy packages from japan that i paid less on shipping than my current deliveredkorea package. ...",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-01-28T04:58:02",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "86ee6ba24b053b7aa87d",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1gibnxx/korean_proxy_cheapest_and_safest_option_for_canada",
+      "title": "r/kpophelp on Reddit: Korean Proxy - Cheapest and safest option for Canada",
+      "excerpt": "I know some good and legit proxy with reasonable fees that can use EMS in sending to Canada. They give discount also if bulk orders. ... I’ve received a premium quote from MassMutual and New York Life and they’re both about the same cost for a 20 year term policy. Which company has the better reputation in terms of actually paying out if I pass away? ... Experience using korean proxy services?",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-11-03T01:17:49",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "0d6b9102684f12210fbe",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1qpwz0n/i_am_looking_for_good_kaddyproxy_services_in",
+      "title": "r/kpophelp on Reddit: I am looking for good Kaddy/proxy services in South Korea who can even purchase from Bunjang",
+      "excerpt": "Korean Proxy Service is here!! ... For people with a kaddy, how are you planning to get your stuff with south korea halting shipments to the us?",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-01-29T03:11:23",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e9474970215bf68c53fb",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1m2w7dt/delivered_standard_shipping_from_delivered_korea",
+      "title": "r/kpophelp on Reddit: \"Delivered Standard\" shipping from Delivered Korea",
+      "excerpt": "That just means the speed you paid for it to be shipped at. ... I know. I was looking to see if anyone's packages have been delivered late, damaged, etc. ... Delivered Standard goes into the postal system, it goes to whichever 3rd party carrier is the cheapest. Tracking is harder because it changes carriers between leaving Korea and arriving in the US. The only parcel I've lost was using this option - I'm still mad about it 3+ months later.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-07-18T07:46:35",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "a36e15e9c173f964d674",
+      "url": "https://www.reddit.com/r/kpophelp/comments/17lyxkc/gos_out_of_all_the_current_korean_proxy_services",
+      "title": "r/kpophelp on Reddit: GOs: Out of all the current Korean Proxy services, what are the pros/cons for each?",
+      "excerpt": "They don't give you the option to pick lower cost shipping though. Consolidation is also crazy. If this is in the wrong sub I will delete but I figured since a lot of us do KPop GOs this might be the place to ask. Archived post. New comments cannot be posted and votes cannot be cast. Share ... I have only used kfriday but I like it. It's expensive but only a little more than if I ordered directly from one Korean store, but of course so much cheaper than if I bought directly from several stores, which is what I use it for.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-02T08:35:30",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "efca8967867822dca3f5",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/186zmqi/any_good_proxing_buying_services_with_domestic",
+      "title": "r/kpopcollections on Reddit: Any good proxing buying services with domestic shipping too?",
+      "excerpt": "All I can see are forwarding services. I signed up on Delivered Korea and placed a few We Buy requests but they got invalidated because of some issue. I am trying to buy from Yes24 and these products are domestic shipments only.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-29T20:47:25",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b2e1fb379c00431844ce",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1s16efz/experience_using_korean_proxy_services_eg",
+      "title": "r/kpopcollections on Reddit: Experience using korean proxy services? eg. Delivered korea",
+      "excerpt": "I wanted to opt for their 'Inclusions' only service (i.e., you only get the photocards), in order to reduce the shipping fee due to the weight of albums. My shock when I found out these are priced PER inclusion. Not a one-off flat rate service fee. I felt completely scammed. In the end, I was thankful the albums got split up into two boxes by the korean fansign company.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-03-23T03:45:14",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f306e73a012825475456",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/zzedp4/proxy_vs_direct_shipping_from_korean_twitter",
+      "title": "r/kpopcollections on Reddit: proxy vs direct shipping from korean twitter",
+      "excerpt": "Tbh I think you should just get it shipped to you directly. I'm on my second kaddy batch now and I've figured out how it's useful for me. ... They are not accessible to overseas buyers (eg. need to make an account with a Korean phone number, they don't ship overseas at all, don't take non Korean payment methods)",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-12-30T23:04:35",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "290e1946f5fb8ddc1526",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1ghfsbx/trying_to_buy_in_korea_and_ship_it_to_to_korea",
+      "title": "r/kpopcollections on Reddit: Trying to buy in Korea and ship it to to Korea",
+      "excerpt": "Is there some sort of proxy site that will buy the item and ship it within the country itself? Archived post. New comments cannot be posted and votes cannot be cast. Share ... You could try Purchase Korea, I've used them when buying items that won't ship internationally from Korea as they are a proxy service who buys the item for you (use Custom Order) and they also ship within Korea.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-11-01T21:00:25",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7e6557bc6e8c4d5451d1",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/12lhclv/korean_address_proxy_service",
+      "title": "r/kpopcollections on Reddit: Korean Address Proxy Service",
+      "excerpt": "BUT.... KTown4U doesn't allow shipping domestically in Korea for their global site, which is the site that has the 40% fanclub discounts and take paypal.",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-04-14T02:59:25",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e197f4858b7087408e59",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/12d9d7r/bunjang_proxy_shipping",
+      "title": "Bunjang proxy shipping : r/kpopcollections",
+      "excerpt": "out of all of them i would say Paysable is one the most people use for a korean proxy service, I've only needed to use them once but i would recommend using them, they work the same way as buyee if you've ever used them before, you just need to fill out the form for what you want to buy and they try to fulfill that as fast as possible.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-04-06T04:46:27",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "9326dbc2967b6bc3cd34",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1duqxlz/recommend_any_korean_proxy_buy_and_ship_services",
+      "title": "Recommend any Korean proxy buy and ship services? : r/kpopcollections",
+      "excerpt": "kpopexchange and oliveyoung are good ones ive used, oliveyoung is a korean store tho and they ship from there but always have good deals, kpopexchange ships to my area in the u.s and ive never had issues w them",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-07-04T15:25:04",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "c2bb47f6a966f3b5409e",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1rl77y2/proxy_shipping_services",
+      "title": "r/kpopcollections on Reddit: proxy shipping services",
+      "excerpt": "OFM requests usually get confirmed within 1-2 business days (korean time), sometimes same day if you submit early in their morning. they'll reject if the item is sold out or if the seller won't ship to their warehouse address",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-03-05T03:52:44",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "d3887aece222b7fbfd2a",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/17ov6t7/proxy_shipping",
+      "title": "r/kpopcollections on Reddit: Proxy shipping",
+      "excerpt": "personal shipping proxies are out there on twitter, but I had my doubts, so I just went ahead and bought the product and shipping together from popular websites like Buyee (for Mercari) and Delivered Korea (for Bunjang).",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-06T04:55:28",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "3cbb95fc05cc91ba01e9",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1aos6hw/sites_you_can_pay_with_paypal_and_ship_to_korean",
+      "title": "r/kpopcollections on Reddit: Sites you can pay with Paypal and ship to Korean Proxy Service",
+      "excerpt": "PurchaseKorea.com buys and ships everything internationally so you don't need to route to another proxy!",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-02-12T05:08:05",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "45a828940fa672233525",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1fhc0ux/does_anyone_have_any_korean_sites_that_ship",
+      "title": "r/kpopcollections on Reddit: does anyone have any korean sites that ship worldwide (so i don’t have to use a proxy)",
+      "excerpt": "Hey! So it looks like www.kpoptown.com still have it in stock! Also a UK store www.kyyo.co.uk have them in stock too and ship worldwide but depending on where you're based shipping might be expensive.",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-09-15T13:03:39",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "90fec13a172bc13f2c85",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1jjmi3f/what_do_i_use_a_proxy_service_for",
+      "title": "r/kpopcollections on Reddit: what do i use a proxy service for?",
+      "excerpt": "Buying 1 item is not what a proxy is used for. you normally ship several orders at once. there are fees. handling fees, consolidation fees and shipping fees. the shipping is NOT cheaper. ... I have used Korean and Japanese proxies, and unless the company you are buying from charges an unreasonable amount- I've found shipping directly from the company is cheaper.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-03-25T15:47:05",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "04484db38f6173ae6d47",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1r1r3nu/delivered_korea_review_ongoing_delays",
+      "title": "r/kpopcollections on Reddit: Delivered Korea Review – Ongoing Delays, Cancellations, and Poor Communication (Korean Proxy / Kaddy Service Experience)",
+      "excerpt": "Overall all these Korean businesses they suck at their service levels when it comes to serving international customers 😒 ... Albumbuddy (referral Link) now has a Bunjang option. ... I’ve heard bunjang might start using other proxies like paysable or Kfriday instead of just Delivered Korea as the main one.",
+      "source": "Reddit · 컬렉션",
+      "score": 55,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-02-11T08:07:22",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "3bea363a04812fdebc6d",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1n6p41m/anyone_in_the_us_get_a_delivered_korea_package",
+      "title": "r/kpopcollections on Reddit: Anyone in the US get a Delivered Korea Package Lately (post 8/29)?",
+      "excerpt": "I tried using a proxy shipping service called deliverd Korea. I paid 35 in shipping for 2.5 kg and 45 for tarifes.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-09-02T17:02:02",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "464541181a6c521d0ea0",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/17xdd2r/is_a_us_proxy_for_exclusives_worth_it",
+      "title": "r/kpopcollections on Reddit: is a us proxy for exclusives worth it?",
+      "excerpt": "Do you just want the cards? There are individual people that will act as a proxy in the US where you buy the album and ship it to their address then they will mail you the cards/inclusions.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-17T11:50:58",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "9a28822b667ab0e9bee1",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/pzcjm4/a_guide_to_shopping_on_bunjang_kfriday_proxy",
+      "title": "r/kpopcollections on Reddit: A Guide To Shopping on Bunjang + KFriday Proxy Service Experience/Review/Haul",
+      "excerpt": "So you can reach out to KFriday to buy items and ship them to you on your behalf. I made a guide here on how to navigate Bunjang since it's in Korean: https://www.reddit.com/user/virtualpropinquity/comments/pzaq17/guide_to_purchasing_on_bunjang_proxy_sellers/ tl;dr I use Papago to translate text",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-10-09T17:53:34",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "36af3a516642d7e73e13",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/17xtter/is_ordering_from_bunjang_worth_it",
+      "title": "r/kpopcollections on Reddit: Is ordering from bunjang worth it?",
+      "excerpt": "I’m just not sure if using a proxy is worth it if im just ordering 1 album? I’e heard that their shipping costs are insane 😬😬 · Archived post. New comments cannot be posted and votes cannot be cast. Share ... i'm an AVID bunjang shopper and it's one of my favourite and least favourite places to shop (least favourite solely bc I spend so much money). What I recommend is getting a Korean address service, ship a bunch of things to there, and then when you consolidate it the shipping will be MUCH more reasonable.",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-18T00:34:56",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7ae5fb16fd6b67ac6012",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1b71acv/proxy_for_bunjang_korea_domestic_shipping",
+      "title": "proxy for bunjang korea (domestic shipping) : r/kpopcollections",
+      "excerpt": "You could try the website Delivered Korea. They can buy and ship the item to you plus they have an option where you can pay a few extra dollars to have them take a pic of your item when it arrives at their warehouse to see your item before you receive it.",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-03-05T09:32:29",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "6ec1a2ded3354cdccee2",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/16i6isb/ktown4u_with_shipping_proxy_alternatives",
+      "title": "r/kpopcollections on Reddit: KTown4U with Shipping Proxy - Alternatives",
+      "excerpt": "Within the last 2 weeks, KTown4U changed their global site to not allowing domestic (Korea to Korea) shipping anymore. The global site is the only one that takes PayPal, and has the Fanclub 40% discounts. They forward you to their Korean site, which does not take Paypal and does not do FanClub discounts. I'm kinda bummed since I finally figured out and got something from the Paysable proxy service.",
+      "source": "Reddit · 컬렉션",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-09-14T02:37:11",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b1a5cf02f87b3563083e",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/mjb55h",
+      "title": "r/kpopcollections on Reddit: Korean Proxy Services?",
+      "excerpt": "I've been wanting to order off of bunjang for sometime now but I'm sure there are many sellers who don't ship WW. Can you guys recommend any safe and…",
+      "source": "Reddit · 컬렉션",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-04-03T15:52:09",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "9b9704d78b4c1e166b9b",
+      "url": "https://www.quora.com/What-proxy-shopping-service-do-you-use-in-Korea",
+      "title": "What proxy shopping service do you use in Korea? - Quora",
+      "excerpt": "Answer: For me, when I first came to Korea, one of the most annoying things was verifying my identity for online shopping. You need a Korean phone number, but to get one, you need an ARC. And getting an ARC takes forever… After searching a lot, I ended up using Timelydrop.",
+      "source": "Quora",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "661d0cf4f366ec57b8f3",
+      "url": "https://www.quora.com/What-is-best-Korea-package-forwarding-service-company",
+      "title": "What is best Korea package forwarding service company? - Quora",
+      "excerpt": "Answer: I recommend KoreaBuyandShip. They have cheapest shipping rate from Korea to World. Good customer service and fast reply to my questions. They also help you buy from any Korea shops and ship worldwide. You should check them out!",
+      "source": "Quora",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "8808ebe49ac90c9ee302",
+      "url": "https://www.quora.com/What-is-the-cheapest-courier-service-to-ship-parcels-to-Saudi-Arabia-from-the-USA-Japan-Korea-China-but-mostly-the-USA",
+      "title": "What is the cheapest courier service to ship parcels to Saudi Arabia from the USA/Japan/Korea/China, but mostly the USA? - Quora",
+      "excerpt": "Answer (1 of 2): From what I can see, Aramex and USPS-PRESORT have cheapest rate from USA. as low as 6.7 dollars per KG. but you need to have at least 15 parcels or 50 lb per time for shipping.",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "0928a25913681419fb2a",
+      "url": "https://www.quora.com/How-can-I-find-a-wholesale-supplier-from-Korea",
+      "title": "How to find a wholesale supplier from Korea - Quora",
+      "excerpt": "Answer (1 of 2): Simple, Reaching out to the Korean Chamber of Commerce would be the best option. In addition to that, getting in touch with the commercial attaché of Korea in your own country will be of great help instead of wasting your time searching online. Should you know the name of the pr...",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "4e6ac755c7a36ad720d2",
+      "url": "https://www.quora.com/Which-websites-can-foreigners-use-in-South-Korea-to-order-essentials",
+      "title": "Which websites can foreigners use in South Korea to order essentials? - Quora",
+      "excerpt": "Answer (1 of 2): 1. Coupang(쿠팡) This app is the fastest and easiest way to purchase anything you need while staying in Korea. The biggest advantage is its incredibly fast delivery speed. https://www.coupang.com/ 2. Ohouse(오늘의 집) This website is well-organized with a wide range of ...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "274e0d7bf2bcfc28030c",
+      "url": "https://www.quora.com/Is-there-any-reliable-mail-package-forwarding-company-in-China-that-allows-you-to-buy-at-Chinese-online-retailers-and-have-your-stuff-forwarded-to-another-country",
+      "title": "Is there any reliable mail/package forwarding company in China that allows you to buy at Chinese online retailers and have your stuff forwarded to another country? - Quora",
+      "excerpt": "Answer: A number of companies are offering a service where you can choose items on Taobao or tmall and they will order for you. The shipping cost is pretty reasonable usually. Which country were you wanting items shipped to since the the Taobao agencies usually specialize by shipping destination ...",
+      "source": "Quora",
+      "score": 75,
+      "reasons": [
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "09727eec0bd48244aa6e",
+      "url": "https://www.quora.com/Does-Amazon-ship-to-Korea",
+      "title": "Does Amazon ship to Korea? - Quora",
+      "excerpt": "Answer (1 of 3): Some of the Amazon retailers didn’t offer international shipping. But you can find shipping forward company help you. Try usgobuy.com, they offer forwarding service from USA to worldwide!",
+      "source": "Quora",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b1b425bde129bfc3b839",
+      "url": "https://www.quora.com/What-is-the-cheapest-way-to-send-parcels-from-South-Korea-to-Singapore",
+      "title": "What is the cheapest way to send parcels from South Korea to Singapore? - Quora",
+      "excerpt": "Answer: Your best bet will be EMS but you still need bulk to enjoy economies of scale on the shipping fee. Mailing to individual customers may therefore be unavoidably expensive. I have personally taken local orders in Singapore for K-Pop stuff, primarily albums and fan merchandise like photoboo...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "56899619d2c1fac8b7c5",
+      "url": "https://www.quora.com/Where-can-I-find-good-Korean-cosmetic-dropshippers",
+      "title": "Where can I find good Korean cosmetic dropshippers? - Quora",
+      "excerpt": "Answer: Try DHgate, AliBaba, or AliExpress Some Companies also help you Dropship and Create products. I recently launched my Lash brand with the help of MGS Accessories. The founder and CEO is very business savvy and knowledgeable. She knows all the right people….maybe get in touch with her?",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "67dc48bca42a09c4a45d",
+      "url": "https://www.quora.com/What-is-the-mailing-process-in-South-Korea-I-have-a-friend-that-is-claiming-I-need-to-pay-1200-to-receive-what-Im-supposedly-being-given-Is-this-true-I-feel-like-Im-being-scammed",
+      "title": "What is the mailing process in South Korea? I have a friend that is claiming I need to pay $1200 to receive what I'm supposedly being given. Is this true? I feel like I'm being scammed. - Quora",
+      "excerpt": "Answer (1 of 9): What is the mailing process in South Korea? I have a friend that is claiming I need to pay $1200 to receive what I'm supposedly being given. Is this true? I feel like I'm being scammed. When sending goods overseas, the recipient is rarely required to pay the delivery fee. There...",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "53a2357b45657ea16992",
+      "url": "https://www.quora.com/I-sent-a-package-to-my-gf-in-South-Korea-but-the-package-went-to-South-Korea-and-then-China-Why-is-that-and-will-she-ever-get-it",
+      "title": "I sent a package to my gf in South Korea, but the package went to South Korea, and then China. Why is that, and will she ever get it? - Quora",
+      "excerpt": "Answer (1 of 3): I just checked the tracking # you provided, and it appears it was already delivered in Korea on 2/14. You seem to be wondering, though, why the package was tracked as having departed Incheon, Korea at 12:57 pm on 2/10 after its arrival from Anchorage, AK, then departing Shenzen, ...",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "0e17548e82960cc3af76",
+      "url": "https://www.quora.com/What-is-the-best-way-to-ship-a-TV-from-the-USA-to-South-Korea",
+      "title": "What is the best way to ship a TV from the USA to South Korea? - Quora",
+      "excerpt": "Answer (1 of 2): It would cost more than it’s worth, and there’s plenty of excellent TV manufacturers in Korea. And, shipping a TV to Korea risks having it damaged in transit or possibly lost. Be smart, sell it here and get a new one there.",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7d1a3fbae3af4edd97b8",
+      "url": "https://www.quora.com/Where-can-I-find-Korean-based-dropshipper-for-Korean-cosmetics-products",
+      "title": "Where can I find Korean based dropshipper for Korean cosmetics products? - Quora",
+      "excerpt": "Answer: I think not so easy to find one and even if you could find one, they may not have many items in stock or may have stock issues such as, they say they have stock and later when you place an order, they won’t. Besides, the prices they offer are not attractive and you cant make good ...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "8aed8915152a378b72c7",
+      "url": "https://www.quora.com/What-are-some-Korean-clothing-sites-that-deliver-internationally",
+      "title": "What are some Korean clothing sites that deliver internationally? - Quora",
+      "excerpt": "Answer (1 of 2): There are many Korean clothing websites, I can give you a list: 1.FashionTIY This is a fashion, wholesale website focusing on young people's clothing. There are also accessories, jewelry, shoes and other categories. As one of their wholesalers, I must talk about their advantage...",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7c06d7ea08bef5b52ace",
+      "url": "https://www.quora.com/South-Korea-How-do-I-address-a-parcel-or-letter-to-a-Korean-address",
+      "title": "South Korea: How do I address a parcel or letter to a Korean address? - Quora",
+      "excerpt": "Answer (1 of 2): Add all details you would normally include, so name, street name you want to send it to, number of the building (and room number if there are several), postal code, city (and district if applicable), and country if you are sending it from a different country than South Korea. It'...",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f5379ed481ee1bd6ae0d",
+      "url": "https://www.quora.com/Where-can-I-find-authentic-Korean-cosmetics-dropshippers-based-in-Korea-I-do-not-trust-AliExpress-where-a-lot-of-Korean-cosmetics-listed-are-actually-fake",
+      "title": "Where can I find authentic Korean cosmetics dropshippers based in Korea? I do not trust AliExpress where a lot of Korean cosmetics listed are actually fake. - Quora",
+      "excerpt": "Answer: I don’t mean to be pessimistic or offend any website but I must say - stay away from AliExpress when it comes to Korean cosmetics. For general goods made in China are fine. I don’t recommend dropshipping as well as there is no organized drop shipper in Korea for Korean cosmetics.",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "93a86c0decd1f5703d1b",
+      "url": "https://www.quora.com/Is-South-Korea-a-good-country-to-start-Dropshipping",
+      "title": "Is South Korea a good country to start Dropshipping? - Quora",
+      "excerpt": "Answer (1 of 2): Yes. South Korea is a good country to do dropshipping. there are such a large number of Korean dropship providers that are accessible online these days, individuals love to buy kpop kinds of stuff, which pushes the dropship kpop stuff or dropship Korean skincare business to grow ...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7536991ea50e90d9da52",
+      "url": "https://www.quora.com/How-do-you-buy-items-from-Mercari-Japan-using-a-proxy",
+      "title": "How to buy items from Mercari Japan using a proxy - Quora",
+      "excerpt": "Answer (1 of 2): How to order and buy from Mercari? 1. Step 1: Go to https://www.mercari.com/jp/ 2. Step 2: Search for items. 3. Step 3: Copy product link and tell Remambo what to buy. ... 4. Step 4: Pay for the order from your Remambo account page. 5. Step 5: Consolidate and choose the shipping...",
+      "source": "Quora",
+      "score": 75,
+      "reasons": [
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "3ea2f2f2b393e2445cbb",
+      "url": "https://www.quora.com/How-do-you-mail-letters-out-of-America-like-for-instance-South-Korea-How-do-I-set-it-up-and-how-many-stamps-do-I-use-Is-there-a-specific-type-of-stamp-I-use-and-how-does-the-addressing-work",
+      "title": "How to mail letters out of America, like for instance, South Korea? How do I set it up and how many stamps do I use? Is there a specific type of stamp I use and how does the addressing work - Quora",
+      "excerpt": "Answer (1 of 5): Every mail system has its own protocol. When I was stationed in Japan the prefecture, city were at the top, descending to name at the bottom. Logic was that the most important geographic item was at the top. As to Korea a quick look at Google describes a hierarchy similar to the ...",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "9472183db30476f2def0",
+      "url": "https://x.com/KentLavis/status/2091802602937958783",
+      "title": "Kent Lavis on X: \"EN: This month we are already working on 4x 40 ft container to South Korea, all to the same client. Now, the client added another batch of order totaling IDR 179.400.000 / $10.150 USD ID: Bulan ini handle 4x 40 ft kontainer ke klien yang sama, dan dia nambah order lagi 179.4 jt\" / X",
+      "excerpt": "EN: This month we are already working on 4x 40 ft container to South Korea, all to the same client. Now, the client added another batch of order totaling IDR 179.400.000 / $10.150 USD ID: Bulan ini handle 4x 40 ft kontainer ke klien yang sama, dan dia nambah order lagi 179.4 jt",
+      "source": "X",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": false,
+      "source_date": "2026-08-24T08:19:39",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b8157c64c04ee2b4ff41",
+      "url": "https://x.com/ParadisLabs/status/2099114004354322730",
+      "title": "Paradis on X: \"Pacing the frontier is ONLY about Anthropic's IPO. Investors are being buttered up for fewer future model releases. Why? Margins. I don't think margins are \"bad\" per se, but there are always deeper questions on whether they last/grow longer-term. Ultimately, shipping a new model… / X",
+      "excerpt": "Every frontier model is superseded IMMEDIATELY after the newest one is released. Fewer models being shipped means they each earn more for longer, which means training cost per revenue $ drops without the labs needing to spend anything less than ...",
+      "source": "X",
+      "score": 45,
+      "reasons": [
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean proxy shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": false,
+      "source_date": "2026-09-13T12:32:32",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "1e13268d85866956f577",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1g5epx2/delivery_korea_how_to_buyship_help",
+      "title": "r/kpophelp on Reddit: Delivery Korea, how to buy/ship? HELP",
+      "excerpt": "Once you buy it, it gives you a number on the \"we buy order\" page (ex: #N249231) and you'll just have to wait until it says confirmed and wait until it gets to the warehouse which may take 1-2 weeks depending! after that you can choose e the shipping method you prefer! and thats the process you should be expecting, hope this helps! ... do you mean delivered korea?",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-10-17T00:56:37",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "45bcb38e58c6d5b2321f",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1bdabc7/delivered_korea_or_shop_and_ship",
+      "title": "r/kpophelp on Reddit: Delivered Korea or Shop and Ship?",
+      "excerpt": "I only used delivered Korea. They are very slow with “we buy orders” but very fast to ship the things to me.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-03-12T22:13:41",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "2ad6c34bcbb17595668e",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1e4qkl1/delivered_korea_help_with_shipping",
+      "title": "r/kpophelp on Reddit: delivered korea help with shipping 😭",
+      "excerpt": "i recently bought multiple albums on weverse and i used delivered korea to have my albums shipped there. when filling out the order form on delivered…",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-07-16T14:49:39",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "2e6c2a1cc7d48a9f5436",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1eibcgh/delivered_korea_shipping_couriers",
+      "title": "r/kpophelp on Reddit: Delivered Korea Shipping Couriers",
+      "excerpt": "I also plan on shipping to the US. Delivered Standard will be using USPS to deliver your package so if you're fine with that, I'd say try it! Here is a thread that explains Delivered Standard more in depth: https://www.reddit.com/r/kpopcollections/comments/tyyhlg/has_anyone_used_delivered_korea/",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-08-02T14:27:50",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "8cad1dd537acade25700",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1ltv89h/delivered_korea_shipping",
+      "title": "r/kpophelp on Reddit: Delivered Korea shipping",
+      "excerpt": "I find these services work best when you have 2 or 3 packages coming in the same time frame (e.g., some pcs from bunjang, a few albums from one website, some merch from another). Package consolidation takes 2 or 3 packages shipped individually for 40-80 each, now is magically $90 total. ... IMO delivered Korea is best used when you consolidate a bunch of items to ship together.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-07-07T14:30:13",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "aff42fd117b27962921b",
+      "url": "https://www.reddit.com/r/kpophelp/comments/18445a7/shipping_from_korea",
+      "title": "r/kpophelp on Reddit: Shipping from Korea",
+      "excerpt": "Recently I asked a friend of mine to send over a SAKURA Polaroid from Seoul to Toronto via Air Mail. She packed my stuff in a envelope and drop it at Korea post and Korea post did provide a tracking number. The issue is somehow my Polaroid has been shipped to Honolulu and on the Korea Post tracking website it says they handed it over to the DESTINATION POST.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-26T06:05:52",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "ad3b335dfd5dc319cf1f",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1hiwz4h/delivered_korea_domestic_shipping",
+      "title": "r/kpophelp on Reddit: delivered korea domestic shipping",
+      "excerpt": "The seller hasn't shipped the item yet or hasn't provided DK with shipping information, most likely. ... They are waiting on the seller. This isn’t their stock, so 2-3 days is after they receive it. ... Delivered korea lately has not been great for me. Tbh they may not have even ordered the item yet.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-12-20T23:40:02",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "89c8b038a039170827b8",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1jjau2t/do_items_on_weverse_shipped_from_korea_provide",
+      "title": "r/kpophelp on Reddit: Do items on Weverse shipped from Korea provide shipping to US",
+      "excerpt": "Yeah, you can usually buy from the global store and ship to the US. My items from Weverse Korea have always arrived just like a normal package.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-03-25T04:01:25",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e3351fce82648c51b068",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1jne5b3/how_does_delivered_koreas_shipping_work",
+      "title": "r/kpophelp on Reddit: How does Delivered Korea’s shipping work?",
+      "excerpt": "Usually people accumulate multiple items and consolidate them into one package so that the cost of international shipping is less per item.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-03-30T14:54:13",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e25d3236597dd83a39bc",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1knlxrf/delivered_korea_shipping_address_help",
+      "title": "r/kpophelp on Reddit: delivered korea shipping address help",
+      "excerpt": "The 광역시/metropolitan city designation means Busan is at the same level as a province. It's similar to how you wouldn't put Gyeonggi-do if you were writing an address in Seoul (which is designated 특별시/special city).",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping",
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-05-15T22:57:52",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f45f9f6846ac87f000e8",
+      "url": "https://www.reddit.com/r/kpophelp/comments/14rzk4o/has_anyone_used_delivered_korea_before",
+      "title": "r/kpophelp on Reddit: Has anyone used Delivered Korea before?",
+      "excerpt": "Hey, I actually use Delivered Korea all the time. What I do is buy multiple albums and merch, ship it to Delivered and then do a repack request, then pay to have the items shipped to the US. A repack request means they consolidate multiple packages into one. Once you do a repack request, you can't make any changes. So basically, since you only bought one item, you don't need to do a repack request because the original seller/shipper should've already included bubble wrap and packed the item so it won't damage during the shipping process.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-07-06T05:50:19",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "13d22f759df41568bab2",
+      "url": "https://www.reddit.com/r/kpophelp/comments/upok8u/shipping_a_trade_from_usa_to_korea",
+      "title": "r/kpophelp on Reddit: shipping a trade from USA to Korea",
+      "excerpt": "I sold some USA-exclusive pcs to Korean fans back in December. For the cheapest option I could find, It cost about $35 to send a first class package international with USPS, sent in a 9x6 bubble mailer that weighed a few ounces. The tracking was very limited, which I was a bit disappointed with, so there's something to keep in mind. And USPS is SLOW. It was a waiting game for both parties. But I'd definitely try going to your local post office or shipping service and discussing with someone there to see your options, it might be different depending on where you live.",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-05-14T19:32:07",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "88bdf9f741017fcfcb58",
+      "url": "https://www.reddit.com/r/kpophelp/comments/18ahezd/has_anyone_here_used_you_buy_we_ship_service_from",
+      "title": "r/kpophelp on Reddit: Has anyone here used 'You Buy, We Ship' service from Delivered Korea?",
+      "excerpt": "It's my first time using Delivered Korea's 'You Buy, We Ship' service. Recently I bought some albums from Music Plant and it is to be sent to the…",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-12-04T10:29:12",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "8a4bb4a454be419f4c50",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1so2hml/if_anyone_wants_and_update_on_customs_duties_on",
+      "title": "r/kpopcollections on Reddit: If anyone wants and update on customs + duties on shipping items from Korea to US..",
+      "excerpt": "I regularly used a Korean shipping service (DeliveredKorea) and it was a lifesaver but ever since the implementation of customs and duties + getting rid of the de minimis exemption I stopped buying things from Korea.",
+      "source": "Reddit · 컬렉션",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-04-17T14:23:51",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "a658cfbe732ff452eb9b",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1gggf4s/how_is_shipping_from_kr_to_usa",
+      "title": "How is shipping from KR to USA : r/kpopcollections",
+      "excerpt": "I've placed orders of up to $400 at a time from Korea and never ran into any additional fees. At most, the seller asked me to verify I made the purchase because that was a high value order. ... I don't pay anything more than shipping which can be expensive. DHL and Fedex usually get to me within 3 to 5 days.",
+      "source": "Reddit · 컬렉션",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-10-31T14:52:47",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f0f902c42c1f19627cc7",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1ct7dwr/delivered_korea_inclusion_service",
+      "title": "r/kpopcollections on Reddit: Delivered Korea Inclusion Service",
+      "excerpt": "My joiners have said they like the idea of saving on shipping, especially the ones who have ordered multiple albums, but I don’t want to do it if the items are going to get damaged. Edited to say that I’ve used Delivered Korea for my GOs ...",
+      "source": "Reddit · 컬렉션",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-05-16T07:31:37",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "87aec69368d29241c851",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1s1abtl/delivered_korea_tariffs_for_the_us",
+      "title": "delivered korea + tariffs for the us 〒_〒 : r/kpopcollections",
+      "excerpt": "You'll probably owe at least $20 in duty and maybe some courier fees on top depending on shipping method. DeliveredKorea has DDP option on at least three of the shipping methods from what I recall, two of them are optional. Edit: I just realized you only listed one non-album item.",
+      "source": "Reddit · 컬렉션",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-03-23T07:33:43",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e32e1fa6c35592298e05",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1s7833d/americans_experience_using_bunjang_w_korea",
+      "title": "r/kpopcollections on Reddit: american's experience using bunjang w/ Korea delivered shipping?",
+      "excerpt": "i was checking bunjang korea and it never updated, try looking at delivered korea’s website! it updated only there for me. i shipped out my order last week and had to pay $140 in shipping and customs though 💔",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-03-29T21:48:43",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "9ad18a422e8768d9080b",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1hztzkn/delivered_korea_we_buy_order_question",
+      "title": "r/kpopcollections on Reddit: Delivered Korea We Buy Order Question",
+      "excerpt": "If you’re using their service you still have to pay a shipping fee. Usually domestic shipping is pretty cheap but you’re ordering around $300 worth of goods so the shipping is probably more. Also it looks like you checked Yes for priority ordering which is also a fee from Delivered Korea.",
+      "source": "Reddit · 컬렉션",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-01-12T19:00:37",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7976436d80cb9cae11c3",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1r2yu86/is_delivered_korea_okay_to_buy_from",
+      "title": "r/kpopcollections on Reddit: is delivered korea okay to buy from?",
+      "excerpt": "This is late but with US tariffs, don't do it. Their shipping prices are crazy and they dont help with customs issues. Delivered Korea ghosted on me when they failed to make an accurate commercial invoice. The first basic step. It did not have even the minor correct information on it for HS codes or descriptions.",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-02-12T17:00:13",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "fc58aeb8a3dbf876aa85",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1ee5rhs/delivered_korea_service_instead_of_weverse",
+      "title": "r/kpopcollections on Reddit: Delivered korea service instead of weverse shipping",
+      "excerpt": "I use delivered korea AND weverse and I have use paypal for years. you will be fine,. it is for domestic purchases! koreans cannot use paypal but we can.",
+      "source": "Reddit · 컬렉션",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-07-28T11:55:52",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "bc33acdc82ea042f63c3",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1pt7rf0/i_need_help_with_delivered_korea",
+      "title": "r/kpopcollections on Reddit: I need help with Delivered Korea!!!",
+      "excerpt": "Once you consolidate a package with DK they won't do any changes or open the box again and they won't ship anything within Korea. So you have no option but to get it as it is. But to be honest whatever the shipping option or the supplier you choose to go with, prices would be pretty much the same ... I want to thank everyone for your tips and for letting me know that this is, actually, a normal shipping price 😅 I ended up paying it anyways because I didn’t want to loose my items, but now I know better, thanks to this and to you guys helping me for future online shopping!",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-12-22T18:57:44",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "29a81de957dda038fe7a",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1muix9m/where_to_buy_kpop_albums_with_free_shipping",
+      "title": "r/kpopcollections on Reddit: Where to buy Kpop albums with free shipping?",
+      "excerpt": "I know it’s a pain but I normally also use kplace and places like kpopalbums, ktown4u, kpoptown etc and just price compare because even tho you have to pay the Korean shipping(normally starting at like 30ish for me) the albums and especially lightsticks are significantly cheaper and do make up for the price. I normally only buy from Korea directly for merch or large comebacks but the only thing to be wary of is the weight of the order will eventually make shipping significantly higher so just check every once in a while.",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-08-19T13:47:07",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "c79f4eb41f3f62f536ba",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1nqmcad/how_is_shipping_from_sk_to_us",
+      "title": "r/kpopcollections on Reddit: How is shipping from SK to US?",
+      "excerpt": "I just had my package from DK arrive yesterday and I chose their delivered standard option which had all the customs stuff calculated. I paid for it (my order was $400+ and the shipping + customs was around $70). And it arrived in like 10 days. ... Delivered Korea calculated it and I paid it when I was paying for shipping fee!",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-09-25T23:58:38",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7a4b4ff5e3b3055b71a8",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/17oy9va/bunjang_delivered_korea",
+      "title": "r/kpopcollections on Reddit: Bunjang + delivered korea",
+      "excerpt": "I don't think they service from seconday market sites but PurchaseKorea.com give the most competitive shipping rates imo ... I need help with Delivered Korea!!!",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-11-06T08:30:57",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "a46ab6d6afffd6c191cd",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/1jffyet/delivered_korea_shipping_error",
+      "title": "r/kpopcollections on Reddit: Delivered Korea shipping error???",
+      "excerpt": "I have been using japanese and korean proxies for years and get monthly heavy packages shipped. even my lighter ones are around $50. the $109 shipping costs IS accurate, it could even be more, and around what I pay to get my orders shipped to me. ... Ok, DK just responded and told me that the shipping cost is an error and currently it is only the kg unit that is functioning properly.",
+      "source": "Reddit · 컬렉션",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-03-20T03:32:36",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "00d4d6e73e7f2a6d5d0d",
+      "url": "https://www.quora.com/Where-can-I-find-Korean-cosmetics-with-cheap-shipping",
+      "title": "Where can I find Korean cosmetics with cheap shipping? - Quora",
+      "excerpt": "Answer: There are many online shops out there for Korean cosmetics retail but unfortunately shipping is something which is a bit costly as the goods will be shipped from Korea all the way to your destination country. So some companies may include shipping fee in product prices, shipping fee might...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e2527ebddbfa55f2cfe5",
+      "url": "https://www.quora.com/How-long-approximately-does-Ktown4u-take-to-get-your-albums-to-you",
+      "title": "How long approximately does Ktown4u take to get your albums to you? - Quora",
+      "excerpt": "Answer: It depends on what shipping option you chose. For the most part, if I remember correctly, the few times I’ve ordered from them, the orders took about 2ish weeks from the moment the order shipped before it got to me in the US. Keep in mind that these are coming from Korea so it needs ...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f32d702515b5694699fc",
+      "url": "https://www.quora.com/My-parcel-is-in-custom-clearance-and-sorting-in-South-Korea-since-the-last-4-days-How-long-does-it-take-to-reach-Pakistan",
+      "title": "My parcel is in custom clearance and sorting in South Korea since the last 4 days. How long does it take to reach Pakistan? - Quora",
+      "excerpt": "Answer: from my experience, you never know. i ordered several goods in multiple vendors from china and it all reached to korean customs at nearly same time, some packages took only 3 days to me but some took almost 2 months. the latter definitely must have required thorough inspection, which is t...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "3caa3f67482a3bd8a364",
+      "url": "https://www.quora.com/Where-can-I-buy-popular-Korean-clothing-at-wholesale-prices",
+      "title": "Where can I buy popular Korean clothing at wholesale prices? - Quora",
+      "excerpt": "Korean trading companies (Sourcing agents): companies in Seoul that consolidate purchases from multiple Dongdaemun vendors and handle export, QC, labeling, and shipping—reduces language and MOQ friction. Online Korean wholesale/wholesale-to-retail platforms (direct for overseas buyers)",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "441103360122237a5861",
+      "url": "https://www.quora.com/Where-can-I-find-the-costs-of-mail-postage-in-Korea",
+      "title": "Where can I find the costs of mail postage in Korea? - Quora",
+      "excerpt": "Quora is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.",
+      "source": "Quora",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "d28ebce503e613c8b75a",
+      "url": "https://www.quora.com/What-is-the-most-popular-stray-kids-ship-in-Korea",
+      "title": "What is the most popular stray kids ship in Korea? - Quora",
+      "excerpt": "I honestly only ship them as a chaotic duo lol. This was a great question, thx for the request! :) Now here's a cursed image of hyunjin and Felix 😈 ... I’m not Korean but I did see them get more attention after God’s Menu.",
+      "source": "Quora",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "bedc77ed173dbecba95d",
+      "url": "https://www.quora.com/Where-can-I-buy-Korean-beauty-products-online",
+      "title": "Where can I buy Korean beauty products online? - Quora",
+      "excerpt": "Answer (1 of 3): There are many korean cosmetics stores. So after you find any products in any korean stores, I think you can use skyshopyyy.online shipping service. You send the product link to skyshopyyy@gmail.com and you pay the product price, shipping fee Then skyshopyyy ship the product...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b98ae23e4e64b9ba231c",
+      "url": "https://www.quora.com/What-are-the-best-websites-to-buy-Korean-cosmetics",
+      "title": "What are the best websites to buy Korean cosmetics? - Quora",
+      "excerpt": "Korean skincare products are famous all over the world, but sadly enough they are not widely available in Western beauty stores, so you would have to get them from an online shop. It’s not always easy to find a good reliable online store that sells Korean beauty products and ships ...",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "dfac2cd5abedcaf9ac0f",
+      "url": "https://www.quora.com/Where-can-I-buy-Korean-and-Japanese-skincare-products-online",
+      "title": "Where can I buy Korean and Japanese skincare products online? - Quora",
+      "excerpt": "Answer: Did you check Amazon in your country? Or search on Amazon. jp or Rakuten (you can choose English page) many of them send to overseas. If you know which bland you’d like to buy like Shiseido, then check your country’s branch first. Nowadays likely you can purchase on line.",
+      "source": "Quora",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "d6ab841d1ce4b30e766c",
+      "url": "https://x.com/CallofDuty",
+      "title": "Call of Duty (@CallofDuty) on X",
+      "excerpt": "From Korea to the farthest reaches of the globe, Task Force 141 faces a war with no borders.",
+      "source": "X",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": false,
+      "source_date": "2026-08-30T22:54:49",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "ff1a424b1951165f93e3",
+      "url": "http://ktown.heykorean.com/Store_View.asp?idx=92598",
+      "title": "한진택배(유학생/귀국이사/귀국차량/한국행 택배)- 무료픽업 > ???嶺뚯솘? ???욧틬????怨댄뀬/??硫몄뺙/??怨룰퐡/?????CATEGORY_FULL_NAME_ENG=yellowpage>Moving Service/Delivery/Shipping | ???嶺뚯솘? 한인업소록 - HeyKorean",
+      "excerpt": "???욧틬????怨댄뀬/??硫몄뺙/??怨룰퐡/?????CATEGORY_FULL_NAME_ENG=yellowpage>Moving Service/Delivery/Shipping > 한진택배(유학생/귀국이사/귀국차량/한국행 택배)- 무료픽업",
+      "source": "HeyKorean",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "b258363870eaa9626397",
+      "url": "http://ktown.heykorean.com/store_view.asp?idx=130021",
+      "title": "베스트 쉬핑 Best Shipping Ever, Inc.-운송,귀국이사 > 뉴저지 이사/택배/운송/교통 | 뉴저지 한인업소록 - HeyKorean",
+      "excerpt": "해외및 귀국이사, 미술작품및 전시물품운송, 수출입해상항공화물, 제3자물류서비스, 사업체이전및 미국내 장거리 운송, 수출포장및 창고서비스 www.bestshippingever.com www.bselogistics.com ...",
+      "source": "HeyKorean",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "f8c5c1f2500b7ac8b8db",
+      "url": "https://ktown.heykorean.com/web/us/store/detail?areaCode=4447&searchText=%EC%84%9C%EB%B9%84%EC%8A%A4&yp_idx=134557&categoryNo=967",
+      "title": "일신해운항공택배 - Ktown 한인 업소록",
+      "excerpt": "일신 항공택배:$6.99 한국배송(korea outbound), $7/kg미국배송(korea inbound) LAX ======〉 KOREA (한국 배송 특별가격) 인터넷 사업자 최상대우 ( 화물추적조회 : 미국출발 ==〉 한국 고객분(받은분) 까지 조회가능) ( 고객관리시스템 : 언제든지 고객분(받는분)의 고객관리가 가능합니다) 안녕하세요.",
+      "source": "HeyKorean",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "37e7ade9d5f5a23458b2",
+      "url": "http://ktown.heykorean.com/Store_View.asp?idx=9750",
+      "title": "CJ 택배 (CJ Express) - 뉴저지 이삿짐,택배 > 뉴저지 이사/택배/운송/교통 | 뉴저지 한인업소록 - HeyKorean",
+      "excerpt": "저희는 New Jersey Norwood 에 위치한 Shipping 전문업체입니다. 한국으로의 택배, 귀국이사, 배송대행 및 FEDEX, UPS, DHL을 통하여 중국및 전세계 배송을 하고있습니다.",
+      "source": "HeyKorean",
+      "score": 75,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "12a0a2f04659875befa1",
+      "url": "http://ktown.heykorean.com/store_view.asp?idx=120565",
+      "title": "다젠택배 (DAZEN SHIPPING) - LA 이사/택배/운송/교통 > 로스엔젤레스 이사/택배/운송/교통 | 로스엔젤레스 한인업소록 - HeyKorean",
+      "excerpt": "다젠택배 (DAZEN SHIPPING) - LA 이사/택배/운송/교통",
+      "source": "HeyKorean",
+      "score": 45,
+      "reasons": [
+        "한국 상품 관련",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "fa8f276965cb13a2993e",
+      "url": "https://gohackers.com?c=abroad%2Fabroad_info%2Finterchange_diary&p=5&type=url&uid=509286",
+      "title": "외국인이 좋아하는 한국 선물 뭐가 있을까요?!",
+      "excerpt": "제목 그대로 외국인이 좋아하는 한국 선물 뭐가 있을까요?교환학생 갈 때 외국인 친구 사귈 겸 부피 크게 차지하지 않는 선물들 가져가려고 하는데외국인에게 주기 좋은 선물들이 뭐가 있을지 추천해주세요!!김이나 라면 ...",
+      "source": "미국 유학생 · 고우해커스",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-01-22T00:00:00",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "7760a15e9ce7e91e5055",
+      "url": "https://www.gohackers.com?c=life%2Flife_info%2Fgodiary&type=url&uid=66188",
+      "title": "보통 유학 중 방학때 한국 가시나요??",
+      "excerpt": "이번에 유학생활 중 첫 방학인데 아직 적응도 제대로 못했고 요즘 비행기표 너무 비싸서 한국에 안 가려고 하는데요주변에는 한국 갔다 온다는 친구들이 꽤 많네요... 유학생분들 방학때 한국 자주 가시나요?",
+      "source": "미국 유학생 · 고우해커스",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2026-05-09T00:00:00",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "5bc964beec1c461a74d0",
+      "url": "https://www.gohackers.com?c=life%2Flife_info%2Fc_life_english&type=url&uid=550173",
+      "title": "생활영어 Q&A:: 고우해커스",
+      "excerpt": "마트가면 식염수 구할 수 있나요?? 한국에서는 약국에서 큰 통으로 된거 사용했는데 여긴 도대체 어딜가서 사야하나요?? 미국 약국에서도 식염수 취급하나요? 그리고 식염수 영어로 뭐라고 물어봐야 할까요??ㅎㅎ 마트에 ...",
+      "source": "미국 유학생 · 고우해커스",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korea only shipping"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": null,
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "e3a889b1120fc83c5d9b",
+      "url": "https://www.reddit.com/r/kpophelp/comments/w7wyyg/korgou_korean_forwarding",
+      "title": "r/kpophelp on Reddit: Korgou Korean Forwarding",
+      "excerpt": "First blank is your name, second is your email, and third is your phone number. Nine times out of ten, you won’t be contacted during a Witchform sale, but if you are and you don’t have a Korean phone number, you’ll likely be contacted through email. Third, 배송지 정부. This is where you fill in your delivery address.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-07-25T18:53:23",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "39e5ea3df3236eeb0a3e",
+      "url": "https://www.reddit.com/r/kpophelp/comments/lq5iwa/what_is_the_best_korean_forwarding_service",
+      "title": "r/kpophelp on Reddit: What is the best Korean forwarding service?",
+      "excerpt": "I've been looking at korean forwarding services such as Korgou, Paysable, Korean buddy, and mykoreabox. I don't know which one is the most reliable…",
+      "source": "Reddit · K-pop",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-02-23T01:31:10",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "163e2865436384dacd7a",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1n8cgp4/best_korean_proxyforwarding_service_for_a_onetime",
+      "title": "r/kpophelp on Reddit: Best Korean proxy/forwarding service for a one-time prize? (Stray Kids merch)",
+      "excerpt": "Delivered will give you an address in Busan that you can have the CD shipped to. Once the CD is shipped, you'll need to send Delivered a note with the tracking number so they know it's coming. Once the CD arrives at Delivered HQ, you'll be able to set up the shipment to the US. To find the value of the prize, just look at a Korean website that's selling a standard version of the album and use that value.",
+      "source": "Reddit · K-pop",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-09-04T14:56:46",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "3e0e9056b7284379fa82",
+      "url": "https://www.reddit.com/r/kpophelp/comments/g9bxxn/how_do_i_use_paysablekorean_forwarding_services",
+      "title": "r/kpophelp on Reddit: How do I use Paysable/Korean Forwarding Services?",
+      "excerpt": "I’ve only used auto purchase, but I believe for manual you just have to state the cost of the item (and pay paysable for it first), link the item, and if you have any log in info to give that as well. It’s easier and cheaper if you can purchase the items on your own and just use the address supplied in the delivery section.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2020-04-28T02:50:52",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "fb5b53118bca7065f9dd",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1jwpuhy/which_parcel_forwarding_service_has_economy",
+      "title": "r/kpophelp on Reddit: Which parcel forwarding service has economy shipping from Korea? I am ordering a package from Korean Aladin to Europe that is estimated (incorrectly, I believe) to be 7kg and shipping charge is €90. I would rather wait longer than pay that much for DHL.",
+      "excerpt": "Has anyone used forwarding service with cheaper shipping options? Share ... If you send to a proxy service, they do allow you to pick different shipping. Airmail may be the cheapest for you. Are the items you are wanting available on a different site that has better shipping options? Like Ktown4u? ... Are the items you are wanting available on a different site that has better shipping options? Like Ktown4u? No, the traditional Korean masking tapes and notebooks that I really want are Aladim exclusive.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2025-04-11T13:26:53",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "074414ec636d48aafb79",
+      "url": "https://www.reddit.com/r/kpophelp/comments/q72oad/korgou_package_forward_shipping_options",
+      "title": "r/kpophelp on Reddit: Korgou package forward shipping options",
+      "excerpt": "Is there a way to get quotes on different shipping methods? Or are we doomed to use the shipping method we initially chose? If not, does anyone know…",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-10-13T03:36:18",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "4af2b2b5a6c9f707d545",
+      "url": "https://www.reddit.com/r/kpophelp/comments/16ederk/delivered_korea_weverse_address_help",
+      "title": "r/kpophelp on Reddit: Delivered Korea Weverse Address Help",
+      "excerpt": "May anyone please provide exactly what to input on address 1 and 2? ... Archived post. New comments cannot be posted and votes cannot be cast. Share ... I believe you need the building number, or house number, then apartment or office number, along with the name of the person · What you have there is only up to the street number it looks like ... Note that I am not fluent in Korean, but I can read/write/romanize and understand basics/conversational...plus I did a lot of mailing in korea lol (lived there 3 years)",
+      "source": "Reddit · K-pop",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2023-09-09T18:48:00",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "8352a8467aa023a4a108",
+      "url": "https://www.reddit.com/r/kpophelp/comments/yqluwd/korgou_package_forwarding_service",
+      "title": "r/kpophelp on Reddit: Korgou Package forwarding service",
+      "excerpt": "Hi! I was wondering if anyone happened to use the package forwarding service korgou before? I’m about to have a 3rd package arrive at the warehouse next week so I’ll finally be ready to ship all 3 packages combined to me.",
+      "source": "Reddit · K-pop",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2022-11-09T15:19:54",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "d7e73c660d116b8cc94b",
+      "url": "https://www.reddit.com/r/kpophelp/comments/1cbg3j8/is_korgou_even_a_good_option",
+      "title": "r/kpophelp on Reddit: Is Korgou even a good option??",
+      "excerpt": "I’ve been considering using Korgou or just any package forwarding service, since it seems easier to just be able to buy straight from SK without relying on GOs.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2024-04-23T21:11:54",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "ecbc7a8edf13e9647ffd",
+      "url": "https://www.reddit.com/r/kpophelp/comments/o9qcuq/if_youre_looking_for_a_parcel_forwarding_service",
+      "title": "r/kpophelp on Reddit: If you're looking for a parcel forwarding service from Korea, do NOT use Korgou",
+      "excerpt": "Paysable currently meets my demands the best, especially the instant payments, but their forwarding service is still overall slow. And I think I have like 5 CS errands open that they never bothered replying to me on and that I kind of just gave up on. I wouldn’t use them for anything I needed delivered quickly. And during covid it’s usually cheaper to ship items directly instead of through paysable for combining. But for items that only ship within Korea, only accepts Korean bank transfers, and aren’t in any rush to be forwarded they’re decent.",
+      "source": "Reddit · K-pop",
+      "score": 80,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2021-06-28T19:30:01",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "3e68ac791386b0d22cc9",
+      "url": "https://www.reddit.com/r/kpophelp/comments/gq6vhk/korean_address_rental",
+      "title": "r/kpophelp - korean address rental",
+      "excerpt": "if not you can always put up a listing on sites like airfrov or carousell if these platforms/apps are available in your country =) i shared an address with someone from airfrov and the shipping was really cheap =“) ... Paysable is good if you have fewer items, but if you’re doing big GOs then Korgou might be better. Both are good and also allows you to make korean bank transfers (which is good since some sellers don’t accept PayPal).",
+      "source": "Reddit · K-pop",
+      "score": 70,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2020-05-25T09:59:19",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "d1d29903440f801d1a7d",
+      "url": "https://www.reddit.com/r/kpophelp/comments/jaer9u/how_do_i_buy_from_korea",
+      "title": "r/kpophelp on Reddit: How do I buy from Korea?",
+      "excerpt": "I’ve bought a lot of stuff from both Korean websites and fans and sent to a forwarding address through Paysable. Feel free to ask any questions if you want.",
+      "source": "Reddit · K-pop",
+      "score": 100,
+      "reasons": [
+        "한국 상품 관련",
+        "배송·구매대행 필요",
+        "질문·추천 요청",
+        "구매·배송 맥락"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": true,
+      "source_date": "2020-10-13T14:40:55",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    },
+    {
+      "id": "a69ea3fc0dc96669d3cd",
+      "url": "https://www.reddit.com/r/kpopcollections/comments/19f2yql/do_you_all_have_any_specific_photocard_holder",
+      "title": "r/kpopcollections on Reddit: do you all have any specific photocard holder recommendations?",
+      "excerpt": "hi all! i want to be able to carry around a photo card with me on my purse but i wanted to ask about recommendations for types (such as acrylic vs a…",
+      "source": "Reddit · 컬렉션",
+      "score": 50,
+      "reasons": [
+        "한국 상품 관련",
+        "질문·추천 요청"
+      ],
+      "keywords": [
+        "Korean address forwarding"
+      ],
+      "first_seen": "2026-09-21T09:08:35.521117+00:00",
+      "last_seen": "2026-09-21T09:08:35.521117+00:00",
+      "expanded_search": false,
+      "source_date": "2026-08-30T19:34:49",
+      "content_updated": "2026-09-21T09:08:35.521117+00:00"
+    }
   ],
-  "queries": 0,
-  "usage": {}
+  "last_attempt": "2026-09-21T09:08:35.521117+00:00",
+  "last_success": "2026-09-21T09:08:35.521117+00:00",
+  "status": "budget_limited",
+  "errors": [],
+  "queries": 19,
+  "usage": {
+    "month": "2026-09",
+    "monthly": 32,
+    "day": "2026-09-21",
+    "daily": 32
+  },
+  "next_query": 19
 }
